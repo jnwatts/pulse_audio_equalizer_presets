@@ -1,0 +1,1 @@
+These presets are for the Sennheiser HD 280 Pro. The first few (a through c) are my attempts at counter-acting the frequency response measured by other folks online. From here I tweaked to my personal preference, which is currently d.
